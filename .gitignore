@@ -1,0 +1,16 @@
+# Build output
+build/
+
+# Generated telemetry data
+data/*.csv
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
